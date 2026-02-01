@@ -1,0 +1,8 @@
+PersonCrudApp/		(PROJECT FOLDER)
+├── pom.xml		(FILE)	
+└── src/		(FOLDER)
+   └── main/		(Inside the FOLDER(also folder))
+        └── java/ 	(Inside the FOLDER(also folder))
+             ├── Main.java
+             ├── Person.java
+             └── PersonManager.java
